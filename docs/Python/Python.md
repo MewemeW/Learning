@@ -65,5 +65,33 @@ print(callable(c), c())
 ```
 
 ### 类装饰器
+```python
+import time
+
+
+class Decorator:
+
+    def __init__(self, fun):
+        self._fun = fun
+
+    def __call__(self, *args, **kwargs):
+        start = time.clock()
+        self._fun(*args)
+        end = time.clock()
+        print(f'函数的运行时间为{str(end - start)}')
+
+
+@Decorator
+def add(*args):
+    print(sum(args))
+
+
+add(1, 2, 5, 3, 7, 4, 5)
+
+
+# 等价于
+add = Decorator(add)
+add(1, 2, 5, 3, 7, 4, 5)
+```
 
 

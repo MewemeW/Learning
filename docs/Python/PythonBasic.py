@@ -6,18 +6,8 @@
 # @Email   : chensy.cao@zjtlcb.com
 
 
-
-
-
-
-
-
-
-
-
-
-
 def fun():
+    # This is fun!
     print(__name__)
     print(__doc__)
     print()
