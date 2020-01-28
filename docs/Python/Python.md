@@ -3,3 +3,9 @@
 
 > 这是另外一个章节。
 
+```python
+def fun():
+    print('hello word!')
+
+fun()
+```
