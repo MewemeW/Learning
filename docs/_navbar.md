@@ -1,6 +1,7 @@
 - [首页]()
 - Python
-	- [Python](./Python/Python.md)
+	- [Python 基础](./Python/Python.md)
+	- [并行计算](./Python/multiprocessing.md)
 - R
 	- [R](./R/R.md)
 - SQL
