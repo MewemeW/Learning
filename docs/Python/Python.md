@@ -94,4 +94,16 @@ add = Decorator(add)
 add(1, 2, 5, 3, 7, 4, 5)
 ```
 
+### 装饰器 - 类
+```python
+def decorator(cls):
+    cls.a = 1
+    cls.b = 2
+    return cls
 
+@decorator
+class C:
+    pass
+
+print(C.__dict__)
+```
