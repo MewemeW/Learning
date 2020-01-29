@@ -14,6 +14,7 @@
 
 - SQL
 	- [SQL](./SQL/SQL.md)
+	- [MySQL](./SQL/MySQL.md)
 
 - 机器学习
 	- [机器学习](./MachineLearning/MachineLearning.md)
