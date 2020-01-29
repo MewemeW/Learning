@@ -8,7 +8,7 @@
 - Git命令
     - [简单Git命令](./Git/git.md)
 - R
-	- [R](./R/R.md)
+	- [R语言](./R/R.md)
 - SQL
 	- [SQL](./SQL/SQL.md)
 - 机器学习
