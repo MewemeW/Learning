@@ -1,3 +1,7 @@
+## numpy
+
+## Pandas
+
 ### python 判断数据类型
 
 - 判断数值是否为空用 pd.isna,pd.isnull,np.isnan
@@ -9,6 +13,9 @@ https://www.cnblogs.com/wqbin/p/12032073.html
 
 
 
+## matplotlib
+
+> 我觉着Basemap是难用的，所以自己也不想用这玩意
 
 ### 安装 matplotlib basemap
 
