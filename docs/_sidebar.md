@@ -1,7 +1,12 @@
 - [首页]()
-- Python
+- Python基本操作
 	- [Python 基础](./Python/Python.md)
 	- [并行计算](./Python/multiprocessing.md)
+	- [Jupyter Notebook](./Python/jupyter_notebook.md)
+	- [内置模块](./Python/py_model.md)
+	- [第三方模块](./Python/packages.md)
+- Git命令
+    - [简单Git命令](./Git/git.md)
 - R
 	- [R](./R/R.md)
 - SQL
@@ -10,3 +15,8 @@
 	- [机器学习](./MachineLearning/MachineLearning.md)
 - 参考书籍
 	- [书籍](./book/book.md)
+- 数据集
+    - [数据集-机器视觉](./Dataset/dataset_cv.md)
+    - [数据集-自然语言处理](./Dataset/dataset_nlp.md)
+    - [数据集-社会科学](./Dataset/dataset_other.md)
+    - [数据集-其他](./Dataset/dataset_other.md)
