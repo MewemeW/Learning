@@ -2,6 +2,17 @@
 
 ## Pandas
 
+### Pandas 全局配置
+
+#### 展示行列数
+
+```python
+#显示所有列，None 可为任意数值
+pd.set_option('display.max_columns', None)
+#显示所有行，None 可为任意数值
+pd.set_option('display.max_rows', None)
+```
+
 ### python 判断数据类型
 
 - 判断数值是否为空用 pd.isna,pd.isnull,np.isnan

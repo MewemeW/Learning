@@ -3,7 +3,7 @@
 找到该路径并添加以下信息
 > `File->settings->Editor->File and Code Templates->Python Script` 
 
-```git
+```bash
 # -*- coding: utf-8 -*-
 # @Time    : ${DATE} ${TIME}
 # @Author  : Your name
@@ -14,13 +14,13 @@
 
 ### Autopep8
 
-```pip
+```bash
 pip install autopep8
 ```
 
 > `Settings -> Tools -> External Tools ->界面框点击“+”`
 
-```git
+```bash
 Name: AutoPep8
 Description: autopep8 your code
 Program: autopep8
@@ -28,3 +28,5 @@ Arguments: --in-place --aggressive --aggressive $FilePath$
 Working directory: $ProjectFileDir$
 Output filters: $FILE_PATH$\:$LINE$\:$COLUMN$\:.*
 ```
+
+### Git

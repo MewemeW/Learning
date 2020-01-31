@@ -1,4 +1,4 @@
-### 专业书籍
+> 专业书籍
 
 - 《信用评分工具:自动化信用管理的理论与实践》Raymond Anderson 李志勇(译)
 - 《信用智能模型 Credit Intelligence & Modelling》Raymond Anderson
@@ -6,7 +6,7 @@
 - 《消费信用模型：定价、利润与组合》李志勇(译)
 - 《量化风险管理：概念、技术和工具》Alexander J.McNeil
 
-### 其他书籍
+> 其他书籍
 
 - 《乡土中国》
 - 《战争与工业》
