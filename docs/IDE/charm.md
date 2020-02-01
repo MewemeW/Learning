@@ -85,12 +85,5 @@ Output filters: $FILE_PATH$\:$LINE$\:$COLUMN$\:.*
 **详细代码修改信息**
 <img src='../img/pr.png' width='720px'>
 
-
-
-
-
-
-
-
-
+> ⚠️: 一定要在自己的分支上进行修改，并上传到自己的远程分支，最终同一合并master，否则将会影响其他开发者的开发。
 
